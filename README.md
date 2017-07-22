@@ -1,10 +1,10 @@
 # docker-svn
 docker-svn
 
-#Dockerfile
+# Dockerfile
 build docker images for svn client only 
 
-#checkout.sh
+# checkout.sh
 user docker run checkout your project code
    --rm  rmove the container when exit 
    -v    volumes
